@@ -1,6 +1,6 @@
 WORKSHOP_NAME=lab-k8s-101
 WORKSHOP_IMAGE=quay.io/repository/openshiftlabs/lab-k8s-101
-CONSOLE_IMAGE=quay.io/openshift/origin-console:4.2
+CONSOLE_IMAGE=quay.io/openshift/origin-console:4.3
 WORKSHOP_TITLE="Kubernetes and OpenShift for JS Developers"
 WORKSHOP_DESCRIPTION="A hands-on introduction to Kubernetes and OpenShift for JS Developers"
 RESOURCE_BUDGET=large
