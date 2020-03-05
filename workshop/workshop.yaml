@@ -1,0 +1,10 @@
+name: Kubernetes and OpenShift for JS Developers
+
+modules:
+    activate:
+    - workshop-overview
+    - 01-cli-console
+    - 02-build-from-source
+    - 03-git-push-to-deploy
+    - 04-oc-rsync
+    - 05-additional-tools-info

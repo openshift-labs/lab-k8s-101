@@ -1,0 +1,20 @@
+modules:
+    workshop-overview:
+        name: Workshop Overview
+        exit_sign: Continue
+    01-cli-console:
+        name: OpenShift CLI and Web Console
+        exit_sign: Build from Source
+    02-build-from-source:
+        name: Building from Source Code
+        exit_sign: Git Push to Deploy
+    03-git-push-to-deploy:
+        name: Git Push to Deploy
+        exit_sign: Live Development
+    04-oc-rsync:
+        name: Live Development
+        exit_sign: Additional Tools and Info
+    05-additional-tools-info:
+        name: Additional Tools and Info
+        exit_sign: Finish Workshop
+
